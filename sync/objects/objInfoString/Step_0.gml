@@ -1,0 +1,2 @@
+ascale -= ascale / 4;
+
